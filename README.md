@@ -1,10 +1,12 @@
 # OIBSIP
 
 Task 1 : " A Simple Landing Page"
+
 Task 2 : " Personal Portfolio Website"
+
 Task 3 : " Temperature Converter Website"
 
-Task 1 Explanation:
+Task 1 Explanation: " Landing page of Titan "
 
 The task creation involves to have a better understanding over HTML and CSS. 
 Created animated website landing page of "Titan".
