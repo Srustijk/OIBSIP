@@ -34,5 +34,7 @@ Here UI, included four main elements-->
 * Dropdown menu for the user to choose their input.
 * "Convert" button to trigger temperature conversion.
 * Display area for final converted temperature.
+
+  
 Finally used Android's Live server to run the code and obtain the output.
 
